@@ -1,0 +1,26 @@
+.container{
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.count{
+  font-size: 10em;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: blueviolet;
+}
+.button{
+  height: 80px;
+  width: 200px;
+  margin: 0px 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 2em;
+  font-weight: bold;
+  background-color: rgb(26, 146, 146);
+  color: white;
+}
+.button:hover{
+  background-color: rgb(119, 0, 230);
+  color: rgb(231, 10, 213);
+}
